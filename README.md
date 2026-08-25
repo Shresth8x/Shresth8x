@@ -4,9 +4,9 @@
 
 I like building things that make me stop and think, *"okay, how are we actually going to make this work?"*
 
-My world revolves around **software engineering, Artificial Intelligence, Generative AI, algorithms, intelligent systems, and product building**.
+My world revolves around **software engineering, AI/GenAI, algorithms, intelligent systems, and product building**.
 
-Sometimes it's a proper project. Sometimes it's a hackathon. Sometimes it's an idea that probably didn't need to exist in the first place.
+Sometimes it's a project. Sometimes it's a hackathon. Sometimes it's an idea that probably didn't need to exist.
 
 Either way, it usually ends up as code.
 
@@ -20,48 +20,26 @@ class Shresth:
 
     focus = [
         "Software Engineering",
-        "Artificial Intelligence",
-        "Generative AI",
+        "AI / GenAI",
         "Algorithms",
         "Intelligent Systems",
         "Product Engineering"
     ]
 
     languages = [
-        "Python",
-        "C++",
-        "Java",
-        "JavaScript",
-        "TypeScript",
-        "C"
+        "Python", "C++", "Java",
+        "JavaScript", "TypeScript", "C"
     ]
 
-    ai_stack = [
-        "LLMs",
-        "RAG",
-        "Embeddings",
-        "Semantic Search",
-        "AI Agents",
-        "Multi-Agent Systems",
-        "Machine Learning",
-        "Computer Vision"
-    ]
-
-    engineering = [
-        "Backend Systems",
-        "REST APIs",
-        "Databases",
-        "Full-Stack Development",
-        "System Design",
-        "Optimization"
+    interests = [
+        "LLMs", "RAG", "AI Agents",
+        "Machine Learning", "Computer Vision",
+        "System Design", "Optimization"
     ]
 
     outside_code = [
-        "Road Trips",
-        "Guitar",
-        "Music",
-        "Beaches",
-        "Sunsets",
+        "Road Trips", "Guitar",
+        "Music", "Beaches", "Sunsets",
         "Startup Ideas"
     ]
 ```
@@ -106,42 +84,13 @@ class Shresth:
 
 ---
 
-# My Technical Playground
-
-```text
-                         SOFTWARE SYSTEMS
-                                │
-          ┌─────────────────────┼─────────────────────┐
-          │                     │                     │
-          ▼                     ▼                     ▼
-      AI / GENAI             BACKEND              FRONTEND
-          │                     │                     │
-    LLMs • RAG             APIs • SQL          React • JS
-    Agents                 Spring              TypeScript
-    Embeddings             Services
-    Semantic Search        Integration
-          │                     │                     │
-          └─────────────────────┼─────────────────────┘
-                                │
-                                ▼
-                      INTELLIGENT SYSTEMS
-                                │
-                 ┌──────────────┼──────────────┐
-                 ▼              ▼              ▼
-            Computer Vision   IoT / Edge   Optimization
-```
-
-I enjoy the space where these areas overlap — especially when an application needs more than just a frontend, an API, or an AI model sitting by itself.
-
----
-
 # Things You'll Find Here
 
 A bit of everything.
 
 ### AI / GenAI
 
-LLM applications, RAG, retrieval systems, intelligent workflows, agents and AI-driven applications.
+LLM applications, RAG, intelligent workflows and agents.
 
 ### Software
 
@@ -153,13 +102,7 @@ DSA, graph algorithms, pathfinding, optimization and algorithmic experiments.
 
 ### Intelligent Systems
 
-Computer vision, real-time processing, edge-oriented systems and IoT.
-
-### Hackathons
-
-Fast prototypes, ambitious ideas, questionable sleep schedules and a lot of debugging.
-
-The repositories contain the actual work. This README is just the map.
+Computer vision, real-time processing, IoT and edge systems.
 
 ---
 
@@ -176,30 +119,15 @@ The repositories contain the actual work. This README is just the map.
 
 # Currently
 
-Working around **enterprise AI, LLM-based applications, intelligent workflows and software systems**.
-
-At the same time, building across **AI, full-stack development, algorithms and intelligent systems**.
-
-The interesting part isn't just using a technology. It's figuring out how the pieces fit together and turning them into something useful.
+Working around enterprise AI, LLM-based applications, intelligent workflows and software systems, while continuing to build across AI, full-stack development, algorithms and intelligent systems.
 
 ---
 
 # Beyond Code
 
-Not everything needs to be a technical discussion.
-
 I'm into:
 
-* Road trips
-* Spontaneous travel
-* Beaches & sunsets
-* Guitar
-* Music
-* Finding new places
-* Startup ideas
-* Building random things because the idea wouldn't leave me alone
-
-And yes, some of the worst ideas are usually the ones that become the most interesting projects.
+Road trips • Spontaneous travel • Beaches & sunsets • Playing guitar • Making music • Fitness
 
 ---
 
