@@ -207,9 +207,9 @@ And yes, some of the worst ideas are usually the ones that become the most inter
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shresth8x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shresth8x&theme=github_dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shresth8x&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shresth8x&theme=github_dark"/>
 
 </p>
 
@@ -219,7 +219,7 @@ And yes, some of the worst ideas are usually the ones that become the most inter
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shresth8x&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shresth8x&theme=github_dark"/>
 
 </p>
 
