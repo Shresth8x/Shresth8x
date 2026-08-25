@@ -215,16 +215,6 @@ And yes, some of the worst ideas are usually the ones that become the most inter
 
 ---
 
-# Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shresth8x&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # Contribution Activity
 
 <p align="center">
