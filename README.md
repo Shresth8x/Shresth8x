@@ -106,17 +106,6 @@ Computer vision, real-time processing, IoT and edge systems.
 
 ---
 
-# A Few Highlights
-
-|                     |                                             |
-| ------------------- | ------------------------------------------- |
-| **9.01 / 10**       | CGPA through 4th semester                   |
-| **Top 30**          | Smart India Hackathon 2025 — Internal Round |
-| **Soar Phase**      | Guidewire DEVTrails 2026                    |
-| **Top 10 / Top 25** | University Hackathon finishes               |
-
----
-
 # Currently
 
 Working around enterprise AI, LLM-based applications, intelligent workflows and software systems, while continuing to build across AI, full-stack development, algorithms and intelligent systems.
