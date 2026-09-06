@@ -112,14 +112,6 @@ Working around enterprise AI, LLM-based applications, intelligent workflows and 
 
 ---
 
-# Beyond Code
-
-I'm into:
-
-Road trips • Spontaneous travel • Beaches & sunsets • Playing guitar • Making music • Fitness
-
----
-
 # GitHub Stats
 
 <p align="center">
